@@ -1,3 +1,14 @@
+## Full E-COMM App Bamazon\_
+
+Fully Funqctioning E-Commerce Website with Stripe Payment Gateway.
+
+Live Website: https://b-e3db3.web.app/
+
+1. React
+2. Context API
+3. Firebase
+4. CSS (Flex)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
